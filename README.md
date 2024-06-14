@@ -1,4 +1,4 @@
-![scnn](https://github.com/vishal20041000/ALL/assets/172475344/a5759c37-9d39-4a87-a104-d8987cab7485)<h1 align="center">CLICK-ALL</h1>
+<h1 align="center">CLICK-ALL</h1>
 <h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
 
 
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img alt="screenshot" src="">
+  <img alt="screenshot" src="scnn.png">
 </p>
 
 ---
